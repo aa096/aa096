@@ -2,21 +2,22 @@
 <p align="left">A passionate front-end student from Norway</p>
 
 <h2 align="left">Education:</h2>
-- 👩🏼‍💻 Currently studing Front-end Development at Noroff
-- 🎓 Bachelor's Degree in Sociology
+<li> 👩🏼‍💻 Currently studing Front-end Development at Noroff </li>
+<li> 🎓 Bachelor's Degree in Sociology </li>
 
 <h2 align="left">🌱 I’m currently learning:</h2>
--  **JavaScript and CSS Frameworks**
+<li> JavaScript and CSS Frameworks </li>
 
 <h2 align="left">🚀 Interests Beyond Code:</h2>
-- Walking
-- Plants
-- Knitting
-- Everything Creative
+<li> Walking </li>
+<li> Plants </li>
+<li> Knitting </li>
+<li> Everything Creative </li>
+
 
 <h2 align="left">📫 How to reach me:</h2>
--  📧Email: **aashild.rasmussen@gmail.com**
-- 🌐 Find me on the web: [Portfolio]( https://aashild-rasmussen.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/aashild-lauvland-rasmussen-8494a91ba) 
+<li> 📧Email: aashild.rasmussen@gmail.com </li>
+<li> 🌐 Find me on the web: <ul> Portfolio: ( https://aashild-rasmussen.netlify.app/) </ul> <ul> LinkedIn: (https://www.linkedin.com/in/aashild-lauvland-rasmussen-8494a91ba) </ul>
 
 
 <h2 align="left">Languages and Tools:</h2>
