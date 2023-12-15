@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aashild L. Rasmussen</h1>
-<p align="center">A passionate front-end student from Norway</p>
+<h1 align="left">Hi 👋, I'm Aashild L. Rasmussen</h1>
+<p align="left">A passionate front-end student from Norway</p>
 
 <h3 align="left">Education:</h3>
 - 👩🏼‍💻 Currently studing Front-end Development at Noroff
