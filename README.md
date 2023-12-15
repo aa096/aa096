@@ -17,7 +17,7 @@
 
 <h2 align="left">📫 How to reach me:</h2>
 <li> 📧 Email: aashild.rasmussen@gmail.com</li>
-<li> 🌐 Find me on the web: <ul> Portfolio: (https://aashild-rasmussen.netlify.app/) </ul><ul> LinkedIn: <a href="https://linkedin.com/in/aashild-lauvland-rasmussen-8494a91ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashild-lauvland-rasmussen-8494a91ba" height="30" width="40" /></a>
+<li> 🌐 Find me on the web: <ul> Portfolio: https://aashild-rasmussen.netlify.app/ </ul><ul> LinkedIn: <a href="https://linkedin.com/in/aashild-lauvland-rasmussen-8494a91ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashild-lauvland-rasmussen-8494a91ba" height="30" width="40" /></a>
 </p></ul>
 
 
