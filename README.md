@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Aashild L. Rasmussen</h1>
 <p align="left">A passionate front-end student from Norway</p>
 
-<h2 align="left">Education:</h2>
-<li> 👩🏼‍💻 Currently studing Front-end Development at Noroff </li>
-<li> 🎓 Bachelor's Degree in Sociology </li>
+<h2 align="left"> 🎓 Education:</h2>
+<li> Currently studing Front-end Development at Noroff </li>
+<li> Bachelor's Degree in Sociology </li>
 
 <h2 align="left">🌱 I’m currently learning:</h2>
 <li> JavaScript and CSS Frameworks </li>
@@ -16,8 +16,8 @@
 
 
 <h2 align="left">📫 How to reach me:</h2>
-<li> 📧Email: aashild.rasmussen@gmail.com </li>
-<li> 🌐 Find me on the web: <ul> Portfolio: ( https://aashild-rasmussen.netlify.app/) </ul> <ul> LinkedIn: (https://www.linkedin.com/in/aashild-lauvland-rasmussen-8494a91ba) </ul>
+<li> 📧 Email: aashild.rasmussen@gmail.com </li>
+<li> 🌐 Find me on the web: <ul> Portfolio: (https://aashild-rasmussen.netlify.app/) </ul><ul> LinkedIn: (https://www.linkedin.com/in/aashild-lauvland-rasmussen-8494a91ba)</ul>
 
 
 <h2 align="left">Languages and Tools:</h2>
