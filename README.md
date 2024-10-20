@@ -17,7 +17,7 @@ A passionate 28 years old frontend student from Norway
 
 ## 📫 How to reach me:
 - 📧 Email: aashild.lauv@gmail.com
-- 🌐 Find me on the web: Portfolio: https://aashild-rasmussen.netlify.app/ | LinkedIn:[Aashild L. Rasmussen](www.linkedin.com/in/aashild-lauvland-rasmussen-8494a91ba)
+- 🌐 Find me on the web: LinkedIn:[Aashild L. Rasmussen] (https://www.linkedin.com/in/aashild-l-rasmussen/)
 
 
 ## 📂 Languages and Tools: 
