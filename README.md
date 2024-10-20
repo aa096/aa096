@@ -1,12 +1,12 @@
 ## Hi 👋, I'm Aashild Rasmussen
-A passionate 27 years old frontend student from Norway
+A passionate 28 years old frontend student from Norway
 
 ## 🎓 Education:
 - Currently studying Frontend Development at Noroff 
 - Bachelor's Degree in Sociology
 
 ## 🌱 I’m currently learning:
-- JavaScript and CSS Frameworks
+- JavaScript Frameworks
 
 ## 🚀 Interests Beyond Code:
 - Walking 
@@ -16,7 +16,7 @@ A passionate 27 years old frontend student from Norway
 
 
 ## 📫 How to reach me:
-- 📧 Email: aashild.rasmussen@gmail.com
+- 📧 Email: aashild.lauv@gmail.com
 - 🌐 Find me on the web: Portfolio: https://aashild-rasmussen.netlify.app/ | LinkedIn:[Aashild L. Rasmussen](www.linkedin.com/in/aashild-lauvland-rasmussen-8494a91ba)
 
 
