@@ -1,15 +1,15 @@
-## Hi 👋, I'm Aashild Rasmussen
-A passionate 28 years old frontend student from Norway
+## Hi 👋, I'm Aashild Lauvland Rasmussen
+A 28 years old frontend student from Norway
 
 ## 🎓 Education:
 - Currently studying Frontend Development at Noroff 
 - Bachelor's Degree in Sociology
 
 ## 🌱 I’m currently learning:
-- JavaScript Frameworks
+- Typscript
 
 ## 🚀 Interests Beyond Code:
-- Walking 
+- Hiking 
 - Plants 
 - Knitting
 - Everything Creative
